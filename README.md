@@ -1,9 +1,9 @@
 # Onlyfans profile scraper
-Interested in using this scraper? Get it here: [Onlyfans profile scraper](https://apify.com/curious_coder/onlyfans-scraper)
+Interested in using this scraper? Get it here: [Onlyfans profile scraper](https://apify.com/curious_coder/onlyfans-scraper?fpr=ve081&fp_sid=github_onlyfans-scraper)
 ## How it works
 This scraper scrapes list profile urls and gives you full details including insights, social media urls, etc
 
-✳️ **Related scrapers:** [Onlyfans posts and download links scraper](https://apify.com/curious_coder/onlyfans-post-scraper) | [Facebook profile scraper](https://apify.com/curious_coder/facebook-profile-scraper) | [Linkedin profile scraper](https://apify.com/curious_coder/linkedin-profile-scraper)
+✳️ **Related scrapers:** [Onlyfans posts and download links scraper](https://apify.com/curious_coder/onlyfans-post-scraper?fpr=ve081&fp_sid=github_onlyfans-scraper) | [Facebook profile scraper](https://apify.com/curious_coder/facebook-profile-scraper?fpr=ve081&fp_sid=github_onlyfans-scraper) | [Linkedin profile scraper](https://apify.com/curious_coder/linkedin-profile-scraper?fpr=ve081&fp_sid=github_onlyfans-scraper)
 
 Here is the sample output of this actor:
 

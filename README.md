@@ -3,7 +3,7 @@ Interested in using this scraper? Get it here: [Onlyfans profile scraper](https:
 ## How it works
 This scraper scrapes list profile urls and gives you full details including insights, social media urls, etc
 
-✳️ **Related scrapers:** [Onlyfans posts and download links scraper](https://apify.com/curious_coder/onlyfans-post-scraper?fpr=ve081&fp_sid=github_onlyfans-scraper) | [Facebook profile scraper](https://apify.com/curious_coder/facebook-profile-scraper?fpr=ve081&fp_sid=github_onlyfans-scraper) | [Linkedin profile scraper](https://apify.com/curious_coder/linkedin-profile-scraper?fpr=ve081&fp_sid=github_onlyfans-scraper)
+✳️ **Related scrapers:** [Onlyfans downloader](https://github.com/parvathi56/onlyfans-downloader) | [Facebook profile scraper](https://apify.com/curious_coder/facebook-profile-scraper?fpr=ve081&fp_sid=github_onlyfans-scraper) | [Linkedin profile scraper](https://apify.com/curious_coder/linkedin-profile-scraper?fpr=ve081&fp_sid=github_onlyfans-scraper)
 
 Here is the sample output of this actor:
 
